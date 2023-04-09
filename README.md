@@ -1,4 +1,4 @@
-# geant4
+# Geant4
 Geant4 code for the BL4S competition of proton absorption by materials
 Authors: Rakhmettulayev Abilmansur, Zhakienov Rakhat, Faizulla Targyn, Esen Birlik, Kanat Aldiyar.
 
